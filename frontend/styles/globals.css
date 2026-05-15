@@ -1,0 +1,109 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  transition: all .3s ease;
+}
+
+body {
+  background: #0f172a;
+  color: white;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: rgba(15, 23, 42, 0.9);
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(10px);
+}
+
+.actions button,
+.filters button,
+.card button {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #2563eb, #7c3aed);
+  animation: fade 1s ease;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  padding: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  background: #1e293b;
+  border-radius: 18px;
+  overflow: hidden;
+  transform: translateY(0);
+}
+
+.card:hover {
+  transform: translateY(-8px);
+}
+
+.card img {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+}
+
+.card h3, .card p {
+  padding: 10px 15px;
+}
+
+.card button {
+  margin: 15px;
+  background: #2563eb;
+  color: white;
+}
+
+.admin {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .hero h2 {
+    font-size: 32px;
+  }
+
+  .header {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
