@@ -1,0 +1,378 @@
+{
+  "iphone": [
+    {
+      "name": "iPhone 17",
+      "category": "iPhone",
+      "description": "Базовая модель линейки iPhone 17 с выбором памяти, цвета и SIM-конфигурации.",
+      "price": "от 99 990 ₽",
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=1200&auto=format&fit=crop",
+      "badge": "Physical SIM / Dual eSIM",
+      "options": [
+        "256 GB",
+        "512 GB",
+        "Blue",
+        "Silver",
+        "Black",
+        "Pink",
+        "Physical SIM + eSIM",
+        "Dual eSIM"
+      ],
+      "href": "/iphone/iphone-17"
+    },
+    {
+      "name": "iPhone 17 Air",
+      "category": "iPhone",
+      "description": "Ультратонкая модель iPhone Air. Только Dual eSIM.",
+      "price": "от 129 990 ₽",
+      "image": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?q=80&w=1200&auto=format&fit=crop",
+      "badge": "eSIM only",
+      "options": [
+        "256 GB",
+        "512 GB",
+        "1 TB",
+        "Blue",
+        "Silver",
+        "Black",
+        "Gold",
+        "Dual eSIM"
+      ],
+      "href": "/iphone/iphone-17-air"
+    },
+    {
+      "name": "iPhone 17 Pro",
+      "category": "iPhone Pro",
+      "description": "Pro-модель с цветами Deep Blue, Cosmic Orange и Silver. Минимальная память 256 GB.",
+      "price": "от 149 990 ₽",
+      "image": "https://images.unsplash.com/photo-1695048133021-be2def43e5e0?q=80&w=1200&auto=format&fit=crop",
+      "badge": "Recommended for Russia",
+      "options": [
+        "256 GB",
+        "512 GB",
+        "1 TB",
+        "Deep Blue",
+        "Cosmic Orange",
+        "Silver",
+        "Physical SIM + eSIM",
+        "Dual eSIM"
+      ],
+      "href": "/iphone/iphone-17-pro"
+    },
+    {
+      "name": "iPhone 17 Pro Max",
+      "category": "iPhone Pro Max",
+      "description": "Флагманская Pro Max модель, включая конфигурацию 2 TB.",
+      "price": "от 169 990 ₽",
+      "image": "https://images.unsplash.com/photo-1695048132832-b41495f12eb4?q=80&w=1200&auto=format&fit=crop",
+      "badge": "2 TB available",
+      "options": [
+        "256 GB",
+        "512 GB",
+        "1 TB",
+        "2 TB",
+        "Deep Blue",
+        "Cosmic Orange",
+        "Silver",
+        "Physical SIM + eSIM",
+        "Dual eSIM"
+      ],
+      "href": "/iphone/iphone-17-pro-max"
+    }
+  ],
+  "macbook": [
+    {
+      "name": "MacBook Neo 13”",
+      "category": "MacBook Neo",
+      "description": "Лёгкий entry premium MacBook для учебы, офиса и ежедневной работы.",
+      "price": "от 89 990 ₽",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1200&auto=format&fit=crop",
+      "badge": "New",
+      "options": [
+        "13”",
+        "256 GB",
+        "512 GB",
+        "Silver",
+        "Midnight",
+        "Starlight"
+      ],
+      "href": "/macbook/neo"
+    },
+    {
+      "name": "MacBook Neo 15”",
+      "category": "MacBook Neo",
+      "description": "Увеличенный экран и premium-ощущение для работы и контента.",
+      "price": "от 109 990 ₽",
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=1200&auto=format&fit=crop",
+      "badge": "New",
+      "options": [
+        "15”",
+        "256 GB",
+        "512 GB",
+        "1 TB",
+        "Silver",
+        "Midnight",
+        "Starlight"
+      ],
+      "href": "/macbook/neo"
+    },
+    {
+      "name": "MacBook Air 13” M4",
+      "category": "MacBook Air",
+      "description": "Тонкий MacBook Air на M4 для работы, поездок и повседневных задач.",
+      "price": "от 119 990 ₽",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200&auto=format&fit=crop",
+      "badge": "M4",
+      "options": [
+        "13”",
+        "16 GB",
+        "24 GB",
+        "256 GB",
+        "512 GB",
+        "Sky Blue",
+        "Midnight",
+        "Silver",
+        "Starlight"
+      ],
+      "href": "/macbook/air"
+    },
+    {
+      "name": "MacBook Air 15” M4",
+      "category": "MacBook Air",
+      "description": "Большой экран Air и чип M4 для тех, кому нужно больше пространства.",
+      "price": "от 139 990 ₽",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+      "badge": "M4",
+      "options": [
+        "15”",
+        "16 GB",
+        "24 GB",
+        "512 GB",
+        "1 TB",
+        "Sky Blue",
+        "Midnight",
+        "Silver",
+        "Starlight"
+      ],
+      "href": "/macbook/air"
+    },
+    {
+      "name": "MacBook Pro 14” M4",
+      "category": "MacBook Pro",
+      "description": "Компактный Pro на M4. Только актуальные версии от M4 и выше.",
+      "price": "от 199 990 ₽",
+      "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?q=80&w=1200&auto=format&fit=crop",
+      "badge": "M4+ only",
+      "options": [
+        "14”",
+        "M4",
+        "16 GB",
+        "24 GB",
+        "512 GB",
+        "1 TB",
+        "Space Black",
+        "Silver"
+      ],
+      "href": "/macbook/pro"
+    },
+    {
+      "name": "MacBook Pro 16” M4 Max",
+      "category": "MacBook Pro",
+      "description": "Топовая Pro-конфигурация для монтажа, 3D, разработки и тяжёлых задач.",
+      "price": "от 399 990 ₽",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1200&auto=format&fit=crop",
+      "badge": "M4 Max",
+      "options": [
+        "16”",
+        "M4 Pro",
+        "M4 Max",
+        "36 GB",
+        "64 GB",
+        "128 GB",
+        "1 TB",
+        "2 TB",
+        "4 TB",
+        "8 TB",
+        "Space Black",
+        "Silver"
+      ],
+      "href": "/macbook/pro"
+    }
+  ],
+  "ipad": [
+    {
+      "name": "iPad (A16) 11”",
+      "category": "iPad A16",
+      "description": "Базовый iPad 11” на A16 — для учебы, видео, заметок и повседневных задач.",
+      "price": "от 49 990 ₽",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=1200&auto=format&fit=crop",
+      "badge": "11” only",
+      "options": [
+        "11”",
+        "128 GB",
+        "256 GB",
+        "512 GB",
+        "Wi‑Fi",
+        "Wi‑Fi + Cellular",
+        "Silver",
+        "Blue",
+        "Pink",
+        "Yellow"
+      ],
+      "href": "/ipad/a16"
+    },
+    {
+      "name": "iPad Air 11” M3",
+      "category": "iPad Air",
+      "description": "iPad Air 11” на M3 — лёгкий планшет для работы, творчества и учёбы.",
+      "price": "от 79 990 ₽",
+      "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?q=80&w=1200&auto=format&fit=crop",
+      "badge": "M3",
+      "options": [
+        "11”",
+        "M3",
+        "128 GB",
+        "256 GB",
+        "512 GB",
+        "1 TB",
+        "Wi‑Fi",
+        "Cellular",
+        "Space Gray",
+        "Blue",
+        "Purple",
+        "Starlight"
+      ],
+      "href": "/ipad/air"
+    },
+    {
+      "name": "iPad Air 13” M4",
+      "category": "iPad Air",
+      "description": "Большой Air 13” на M4 для комфортной работы, контента и заметок.",
+      "price": "от 109 990 ₽",
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?q=80&w=1200&auto=format&fit=crop",
+      "badge": "M4",
+      "options": [
+        "13”",
+        "M4",
+        "128 GB",
+        "256 GB",
+        "512 GB",
+        "1 TB",
+        "Wi‑Fi",
+        "Cellular",
+        "Space Gray",
+        "Blue",
+        "Purple",
+        "Starlight"
+      ],
+      "href": "/ipad/air"
+    },
+    {
+      "name": "iPad Pro 11” M4",
+      "category": "iPad Pro",
+      "description": "Pro-планшет 11” на M4 для дизайнеров, монтажёров и power users.",
+      "price": "от 119 990 ₽",
+      "image": "https://images.unsplash.com/photo-1609546769457-5b29118895d2?q=80&w=1200&auto=format&fit=crop",
+      "badge": "M4",
+      "options": [
+        "11”",
+        "M4",
+        "256 GB",
+        "512 GB",
+        "1 TB",
+        "2 TB",
+        "Wi‑Fi",
+        "Cellular",
+        "Space Black",
+        "Silver"
+      ],
+      "href": "/ipad/pro"
+    },
+    {
+      "name": "iPad Pro 13” M5",
+      "category": "iPad Pro",
+      "description": "Флагманский iPad Pro 13” на M5 с максимальным запасом мощности.",
+      "price": "от 169 990 ₽",
+      "image": "https://images.unsplash.com/photo-1589739900266-43b2843f4c12?q=80&w=1200&auto=format&fit=crop",
+      "badge": "M5",
+      "options": [
+        "13”",
+        "M5",
+        "256 GB",
+        "512 GB",
+        "1 TB",
+        "2 TB",
+        "Wi‑Fi",
+        "Cellular",
+        "Space Black",
+        "Silver"
+      ],
+      "href": "/ipad/pro"
+    }
+  ],
+  "meta": [
+    {
+      "name": "Ray-Ban Meta Wayfarer Gen 2",
+      "category": "Meta × Ray-Ban",
+      "description": "Wayfarer Gen 2 с улучшенной камерой, батареей и AI-функциями.",
+      "price": "от 49 990 ₽",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=1200&auto=format&fit=crop",
+      "badge": "Gen 2",
+      "options": [
+        "Standard",
+        "Large",
+        "Black",
+        "Clear/Grey",
+        "G‑15 Green",
+        "Transitions"
+      ],
+      "href": "/meta-rayban"
+    },
+    {
+      "name": "Ray-Ban Meta Headliner Gen 2",
+      "category": "Meta × Ray-Ban",
+      "description": "Headliner Gen 2 — более мягкая форма оправы и AI-возможности Meta.",
+      "price": "от 49 990 ₽",
+      "image": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?q=80&w=1200&auto=format&fit=crop",
+      "badge": "Gen 2",
+      "options": [
+        "Standard",
+        "Black",
+        "G‑15 Green",
+        "Transitions",
+        "Polarized"
+      ],
+      "href": "/meta-rayban"
+    },
+    {
+      "name": "Ray-Ban Meta Skyler Gen 2",
+      "category": "Meta × Ray-Ban",
+      "description": "Skyler Gen 2 — lifestyle-форма для съёмки, звонков, музыки и Meta AI.",
+      "price": "от 49 990 ₽",
+      "image": "https://images.unsplash.com/photo-1508296695146-257a814070b4?q=80&w=1200&auto=format&fit=crop",
+      "badge": "Gen 2",
+      "options": [
+        "Standard",
+        "Black",
+        "Chalk Grey",
+        "Graphite Green",
+        "Sapphire Transitions"
+      ],
+      "href": "/meta-rayban"
+    },
+    {
+      "name": "Ray-Ban Meta Skyler Gen 1",
+      "category": "Meta × Ray-Ban",
+      "description": "Skyler Gen 1 — проверенная первая линейка smart glasses Ray-Ban Meta.",
+      "price": "от 39 990 ₽",
+      "image": "https://images.unsplash.com/photo-1603575448878-868a20723f5d?q=80&w=1200&auto=format&fit=crop",
+      "badge": "Gen 1",
+      "options": [
+        "Standard",
+        "Black",
+        "Clear/Cerulean Blue",
+        "Sun",
+        "Transitions"
+      ],
+      "href": "/meta-rayban"
+    }
+  ]
+}

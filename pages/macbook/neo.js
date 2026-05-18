@@ -1,0 +1,4 @@
+import Layout from '../../components/Layout'
+import Seo from '../../components/Seo'
+import Link from 'next/link'
+export default function Page(){return <Layout><Seo title="MacBook Neo" description="MacBook Neo 13” и 15” — entry premium линейка iDanny."/><section className="pageHero compact"><span className="badge">iDanny verified catalog</span><h1>MacBook Neo</h1><p>MacBook Neo 13” и 15” — entry premium линейка iDanny.</p><div className="heroActions"><Link href="/contacts" className="btn">Уточнить наличие</Link><Link href="/delivery" className="btn secondary">Доставка по РФ</Link></div></section><section className="seoBlock"><h2>MacBook Neo: описание для покупки</h2><p>MacBook Neo 13” и 15” — entry premium линейка iDanny. В iDanny эта страница используется как коммерческая SEO-посадочная: здесь будут цены, наличие, варианты конфигураций, гарантия, отзывы Яндекс Маркета, проверка при получении и быстрый заказ.</p></section></Layout>}
