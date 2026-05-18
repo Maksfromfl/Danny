@@ -1,2 +1,0 @@
-import Link from 'next/link'
-export default function ProductCard({p}){return <article className="card">{p.badge?<span className="tag">{p.badge}</span>:null}<button className="fav">♡</button><Link href={`/product/${p.slug}`} className="pic"><span>{p.icon}</span></Link><Link href={`/product/${p.slug}`}><h3>{p.name}</h3></Link><p>{p.catName}</p><div className="price"><b>{p.price}</b></div><div className="cardbottom"><Link href={`/product/${p.slug}`}>Подробнее</Link><button>🛒</button></div></article>}
