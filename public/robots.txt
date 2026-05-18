@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://idanny.ru/sitemap.xml
+Host: https://idanny.ru
