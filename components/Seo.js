@@ -1,0 +1,2 @@
+import Head from 'next/head'
+export default function Seo({title='iDanny',description='Оригинальная техника iDanny',canonical='https://idanny.ru'}){return <Head><title>{title}</title><meta name="description" content={description}/><link rel="canonical" href={canonical}/><meta name="viewport" content="width=device-width, initial-scale=1"/></Head>}
