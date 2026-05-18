@@ -1,1 +1,0 @@
-Clean rebuild with iD logo, iPhone 17 only, Ray-Ban Meta category, commercial pages, FAQ, Journal, dark premium UI and blue-violet CTA.
