@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "iphone",
+    "name": "iPhone",
+    "icon": "▯"
+  },
+  {
+    "slug": "macbook",
+    "name": "MacBook",
+    "icon": "▭"
+  },
+  {
+    "slug": "ipad",
+    "name": "iPad",
+    "icon": "▯"
+  },
+  {
+    "slug": "airpods",
+    "name": "AirPods",
+    "icon": "◖"
+  },
+  {
+    "slug": "watch",
+    "name": "Apple Watch",
+    "icon": "◉"
+  },
+  {
+    "slug": "rayban",
+    "name": "Ray-Ban Meta",
+    "icon": "◒"
+  },
+  {
+    "slug": "accessories",
+    "name": "Аксессуары",
+    "icon": "▢"
+  }
+]

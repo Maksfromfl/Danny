@@ -1,0 +1,252 @@
+[
+  {
+    "slug": "iphone-17",
+    "name": "iPhone 17",
+    "cat": "iphone",
+    "catName": "iPhone",
+    "price": "129 990 ₽",
+    "badge": "ХИТ",
+    "icon": "📱",
+    "desc": "Оригинальный iPhone 17. В наличии, гарантия, проверка при получении."
+  },
+  {
+    "slug": "iphone-17-air",
+    "name": "iPhone 17 Air",
+    "cat": "iphone",
+    "catName": "iPhone",
+    "price": "149 990 ₽",
+    "badge": "НОВИНКА",
+    "icon": "📱",
+    "desc": "Тонкий iPhone 17 Air. Оригинальная техника, помощь с подбором."
+  },
+  {
+    "slug": "iphone-17-pro",
+    "name": "iPhone 17 Pro",
+    "cat": "iphone",
+    "catName": "iPhone",
+    "price": "169 990 ₽",
+    "badge": "ХИТ",
+    "icon": "📱",
+    "desc": "iPhone 17 Pro для тех, кому важны камера, скорость и премиальный корпус."
+  },
+  {
+    "slug": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max",
+    "cat": "iphone",
+    "catName": "iPhone",
+    "price": "209 990 ₽",
+    "badge": "ХИТ",
+    "icon": "📱",
+    "desc": "Флагманский iPhone 17 Pro Max с большим экраном и максимальными возможностями."
+  },
+  {
+    "slug": "macbook-air-13",
+    "name": "MacBook Air 13",
+    "cat": "macbook",
+    "catName": "MacBook",
+    "price": "119 990 ₽",
+    "badge": "",
+    "icon": "💻",
+    "desc": "Лёгкий MacBook Air 13 для работы, учёбы и поездок."
+  },
+  {
+    "slug": "macbook-air-15",
+    "name": "MacBook Air 15",
+    "cat": "macbook",
+    "catName": "MacBook",
+    "price": "139 990 ₽",
+    "badge": "",
+    "icon": "💻",
+    "desc": "MacBook Air 15 с большим экраном и лёгким корпусом."
+  },
+  {
+    "slug": "macbook-pro-14",
+    "name": "MacBook Pro 14",
+    "cat": "macbook",
+    "catName": "MacBook",
+    "price": "199 990 ₽",
+    "badge": "ХИТ",
+    "icon": "💻",
+    "desc": "MacBook Pro 14 для профессиональных задач."
+  },
+  {
+    "slug": "macbook-pro-16",
+    "name": "MacBook Pro 16",
+    "cat": "macbook",
+    "catName": "MacBook",
+    "price": "249 990 ₽",
+    "badge": "",
+    "icon": "💻",
+    "desc": "MacBook Pro 16 с большим экраном и высокой производительностью."
+  },
+  {
+    "slug": "ipad-a16",
+    "name": "iPad A16",
+    "cat": "ipad",
+    "catName": "iPad",
+    "price": "49 990 ₽",
+    "badge": "НОВИНКА",
+    "icon": "📲",
+    "desc": "iPad A16 — актуальный базовый iPad для дома, учёбы и работы."
+  },
+  {
+    "slug": "ipad-mini-a17-pro",
+    "name": "iPad mini A17 Pro",
+    "cat": "ipad",
+    "catName": "iPad",
+    "price": "69 990 ₽",
+    "badge": "",
+    "icon": "📲",
+    "desc": "Компактный iPad mini с мощным чипом A17 Pro."
+  },
+  {
+    "slug": "ipad-air-11",
+    "name": "iPad Air 11",
+    "cat": "ipad",
+    "catName": "iPad",
+    "price": "79 990 ₽",
+    "badge": "",
+    "icon": "📲",
+    "desc": "iPad Air 11 — универсальный планшет для ежедневных задач."
+  },
+  {
+    "slug": "ipad-air-13",
+    "name": "iPad Air 13",
+    "cat": "ipad",
+    "catName": "iPad",
+    "price": "99 990 ₽",
+    "badge": "",
+    "icon": "📲",
+    "desc": "iPad Air 13 с большим экраном для работы и контента."
+  },
+  {
+    "slug": "ipad-pro-11",
+    "name": "iPad Pro 11",
+    "cat": "ipad",
+    "catName": "iPad",
+    "price": "129 990 ₽",
+    "badge": "ХИТ",
+    "icon": "📲",
+    "desc": "iPad Pro 11 для творчества, работы и мощных приложений."
+  },
+  {
+    "slug": "ipad-pro-13",
+    "name": "iPad Pro 13",
+    "cat": "ipad",
+    "catName": "iPad",
+    "price": "159 990 ₽",
+    "badge": "",
+    "icon": "📲",
+    "desc": "iPad Pro 13 с большим экраном и профессиональными возможностями."
+  },
+  {
+    "slug": "airpods-4",
+    "name": "AirPods 4",
+    "cat": "airpods",
+    "catName": "AirPods",
+    "price": "19 990 ₽",
+    "badge": "НОВИНКА",
+    "icon": "🎧",
+    "desc": "AirPods 4 — актуальные наушники Apple для повседневного использования."
+  },
+  {
+    "slug": "airpods-4-anc",
+    "name": "AirPods 4 ANC",
+    "cat": "airpods",
+    "catName": "AirPods",
+    "price": "24 990 ₽",
+    "badge": "",
+    "icon": "🎧",
+    "desc": "AirPods 4 с активным шумоподавлением."
+  },
+  {
+    "slug": "airpods-pro-2",
+    "name": "AirPods Pro 2",
+    "cat": "airpods",
+    "catName": "AirPods",
+    "price": "29 990 ₽",
+    "badge": "ХИТ",
+    "icon": "🎧",
+    "desc": "AirPods Pro 2 с активным шумоподавлением и адаптивным режимом."
+  },
+  {
+    "slug": "airpods-max-2",
+    "name": "AirPods Max 2",
+    "cat": "airpods",
+    "catName": "AirPods",
+    "price": "79 990 ₽",
+    "badge": "НОВИНКА",
+    "icon": "🎧",
+    "desc": "AirPods Max 2 — полноразмерные премиальные наушники Apple."
+  },
+  {
+    "slug": "apple-watch-series-11",
+    "name": "Apple Watch Series 11",
+    "cat": "watch",
+    "catName": "Apple Watch",
+    "price": "49 990 ₽",
+    "badge": "НОВИНКА",
+    "icon": "⌚",
+    "desc": "Apple Watch Series 11 для здоровья, спорта и уведомлений."
+  },
+  {
+    "slug": "apple-watch-ultra-3",
+    "name": "Apple Watch Ultra 3",
+    "cat": "watch",
+    "catName": "Apple Watch",
+    "price": "89 990 ₽",
+    "badge": "ХИТ",
+    "icon": "⌚",
+    "desc": "Apple Watch Ultra 3 — прочные часы для спорта и активного образа жизни."
+  },
+  {
+    "slug": "apple-watch-se",
+    "name": "Apple Watch SE",
+    "cat": "watch",
+    "catName": "Apple Watch",
+    "price": "29 990 ₽",
+    "badge": "",
+    "icon": "⌚",
+    "desc": "Apple Watch SE — доступный вход в экосистему Apple Watch."
+  },
+  {
+    "slug": "ray-ban-meta-wayfarer",
+    "name": "Ray-Ban Meta Wayfarer",
+    "cat": "rayban",
+    "catName": "Ray-Ban Meta",
+    "price": "69 990 ₽",
+    "badge": "ХИТ",
+    "icon": "🕶️",
+    "desc": "Ray-Ban Meta Wayfarer — умные очки для фото, видео и звонков."
+  },
+  {
+    "slug": "ray-ban-meta-headliner",
+    "name": "Ray-Ban Meta Headliner",
+    "cat": "rayban",
+    "catName": "Ray-Ban Meta",
+    "price": "69 990 ₽",
+    "badge": "",
+    "icon": "🕶️",
+    "desc": "Ray-Ban Meta Headliner — умные очки в альтернативной форме оправы."
+  },
+  {
+    "slug": "ray-ban-meta-skyler",
+    "name": "Ray-Ban Meta Skyler",
+    "cat": "rayban",
+    "catName": "Ray-Ban Meta",
+    "price": "69 990 ₽",
+    "badge": "НОВИНКА",
+    "icon": "🕶️",
+    "desc": "Ray-Ban Meta Skyler — стильная модель умных очков Meta."
+  },
+  {
+    "slug": "apple-accessories",
+    "name": "Аксессуары Apple",
+    "cat": "accessories",
+    "catName": "Аксессуары",
+    "price": "от 4 990 ₽",
+    "badge": "",
+    "icon": "🛍️",
+    "desc": "Кабели, адаптеры, чехлы и другие аксессуары."
+  }
+]
