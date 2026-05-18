@@ -1,0 +1,3 @@
+import Layout from '../components/Layout'
+import Seo from '../components/Seo'
+export default function Page(){return <Layout><Seo title="Акции | iDanny" description="Подборка товаров с выгодными предложениями." canonical="https://idanny.ru/sale"/><section className="pageHead"><h1>Акции</h1><p>Подборка товаров с выгодными предложениями.</p></section><section className="infoGrid"><article><h2>Оригинальная техника</h2><p>Только актуальные устройства и понятные условия покупки.</p></article><article><h2>Проверка</h2><p>При доступном формате передачи можно проверить товар при получении.</p></article><article><h2>Доставка</h2><p>Доставка по России согласовывается перед отправкой.</p></article></section></Layout>}
