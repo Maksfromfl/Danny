@@ -1,0 +1,1 @@
+Working ElectroShop-style iDanny build: header, catalog, categories, product cards, product pages, commercial pages, blog route, no 403 routes.

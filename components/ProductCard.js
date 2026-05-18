@@ -1,0 +1,3 @@
+import Link from 'next/link'
+import {Heart,ShoppingCart} from 'lucide-react'
+export default function ProductCard({p}){return <article className="card">{p.badge&&<span className="tag">{p.badge}</span>}<button className="fav"><Heart size={18}/></button><Link href={`/product/${p.slug}`} className="pic"><span>{p.emoji}</span></Link><Link href={`/product/${p.slug}`}><h3>{p.name}</h3></Link><p>{p.catName}</p><div className="price">{p.old&&<s>{p.old}</s>}<b>{p.price}</b></div><div className="cardbottom"><Link href={`/product/${p.slug}`}>Подробнее</Link><button><ShoppingCart size={18}/></button></div></article>}
