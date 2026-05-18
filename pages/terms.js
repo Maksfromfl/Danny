@@ -1,3 +1,0 @@
-import Layout from '../components/Layout'
-import Seo from '../components/Seo'
-export default function Page(){return <Layout><Seo title="Пользовательское соглашение | iDanny" description="Правила использования сайта iDanny." canonical="https://idanny.ru/terms"/><section className="page"><h1>Пользовательское соглашение</h1><p>Правила использования сайта iDanny.</p></section><section className="infoGrid"><article><h2>Оригинальная техника</h2><p>Только актуальные устройства и понятные условия покупки.</p></article><article><h2>Проверка</h2><p>При доступном формате передачи можно проверить товар при получении.</p></article><article><h2>Доставка</h2><p>Доставка по России согласовывается перед отправкой.</p></article></section></Layout>}
