@@ -1,0 +1,3 @@
+import Layout from '../components/Layout'
+import Seo from '../components/Seo'
+export default function Page(){return <Layout><Seo title="FAQ | iDanny" description="Ответы на частые вопросы о покупке, доставке, гарантии и выборе техники." canonical="https://idanny.ru/faq"/><section className="pageHero"><h1>FAQ</h1><p>Ответы на частые вопросы о покупке, доставке, гарантии и выборе техники.</p></section><section className="infoRow"><article><b>Оригинальная техника</b><span>Актуальные устройства Apple и Ray‑Ban Meta.</span></article><article><b>Проверка</b><span>При доступном формате передачи можно проверить товар.</span></article><article><b>Подбор</b><span>Помогаем выбрать устройство под реальные задачи.</span></article></section></Layout>}

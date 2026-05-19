@@ -1,0 +1,3 @@
+import Layout from '../components/Layout'
+import Seo from '../components/Seo'
+export default function Page(){return <Layout><Seo title="Контакты | iDanny" description="Страница подготовлена под мессенджеры, email и форму связи." canonical="https://idanny.ru/contacts"/><section className="pageHero"><h1>Контакты</h1><p>Страница подготовлена под мессенджеры, email и форму связи.</p></section><section className="infoRow"><article><b>Оригинальная техника</b><span>Актуальные устройства Apple и Ray‑Ban Meta.</span></article><article><b>Проверка</b><span>При доступном формате передачи можно проверить товар.</span></article><article><b>Подбор</b><span>Помогаем выбрать устройство под реальные задачи.</span></article></section></Layout>}
