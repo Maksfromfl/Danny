@@ -7,8 +7,8 @@
   },
   {
     "slug": "mac",
-    "name": "Mac",
-    "subtitle": "MacBook Air, MacBook Pro, iMac, Mac mini",
+    "name": "MacBook",
+    "subtitle": "Air, Pro, iMac, Mac mini",
     "emoji": "💻"
   },
   {
@@ -38,7 +38,7 @@
   {
     "slug": "accessories",
     "name": "Аксессуары",
-    "subtitle": "MagSafe, чехлы, зарядки, кабели",
+    "subtitle": "MagSafe, чехлы, зарядки",
     "emoji": "🔌"
   },
   {
