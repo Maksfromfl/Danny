@@ -1,0 +1,3 @@
+import Layout from '../components/Layout'
+import Seo from '../components/Seo'
+export default function Page(){return <Layout><Seo title="Бренды | iDanny" description="Apple, Ray‑Ban Meta и аксессуары." canonical="https://idanny.ru/brands"/><section className="pageHero"><h1>Бренды</h1><p>Apple, Ray‑Ban Meta и аксессуары.</p></section><section className="infoRow"><article><b>Оригинальная техника</b><span>Актуальные устройства Apple и Ray‑Ban Meta.</span></article><article><b>Проверка</b><span>При доступном формате передачи можно проверить товар.</span></article><article><b>Подбор</b><span>Помогаем выбрать устройство под реальные задачи.</span></article></section></Layout>}
