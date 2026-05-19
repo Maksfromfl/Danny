@@ -1,3 +1,0 @@
-import Layout from '../components/Layout'
-import Seo from '../components/Seo'
-export default function Page(){return <Layout><Seo title="Аккаунт | iDanny" description="Личный кабинет будет подключён позже." canonical="https://idanny.ru/account"/><section className="pageHero"><h1>Аккаунт</h1><p>Личный кабинет будет подключён позже.</p></section><section className="infoRow"><article><b>Оригинальная техника</b><span>Актуальные устройства Apple и Ray‑Ban Meta.</span></article><article><b>Проверка</b><span>При доступном формате передачи можно проверить товар.</span></article><article><b>Подбор</b><span>Помогаем выбрать устройство под реальные задачи.</span></article></section></Layout>}

@@ -1,3 +1,0 @@
-import Layout from '../components/Layout'
-import Seo from '../components/Seo'
-export default function Page(){return <Layout><Seo title="Журнал | iDanny" description="Материалы о выборе iPhone, MacBook, iPad, AirPods, Apple Watch и Ray‑Ban Meta." canonical="https://idanny.ru/journal"/><section className="pageHero"><h1>Журнал</h1><p>Материалы о выборе iPhone, MacBook, iPad, AirPods, Apple Watch и Ray‑Ban Meta.</p></section><section className="infoRow"><article><b>Оригинальная техника</b><span>Актуальные устройства Apple и Ray‑Ban Meta.</span></article><article><b>Проверка</b><span>При доступном формате передачи можно проверить товар.</span></article><article><b>Подбор</b><span>Помогаем выбрать устройство под реальные задачи.</span></article></section></Layout>}

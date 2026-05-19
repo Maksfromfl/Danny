@@ -1,3 +1,0 @@
-import Layout from '../components/Layout'
-import Seo from '../components/Seo'
-export default function Page(){return <Layout><Seo title="Акции | iDanny" description="Раздел под подборки и специальные предложения без недостоверных обещаний." canonical="https://idanny.ru/sale"/><section className="pageHero"><h1>Акции</h1><p>Раздел под подборки и специальные предложения без недостоверных обещаний.</p></section><section className="infoRow"><article><b>Оригинальная техника</b><span>Актуальные устройства Apple и Ray‑Ban Meta.</span></article><article><b>Проверка</b><span>При доступном формате передачи можно проверить товар.</span></article><article><b>Подбор</b><span>Помогаем выбрать устройство под реальные задачи.</span></article></section></Layout>}
