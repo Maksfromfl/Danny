@@ -2,49 +2,41 @@
   {
     "slug": "iphone",
     "name": "iPhone",
-    "subtitle": "iPhone 17, Air, Pro, Pro Max",
-    "emoji": "📱"
+    "subtitle": "iPhone 17, Air, Pro, Pro Max"
   },
   {
     "slug": "mac",
-    "name": "MacBook",
-    "subtitle": "Air, Pro, iMac, Mac mini",
-    "emoji": "💻"
+    "name": "Mac",
+    "subtitle": "MacBook Air, MacBook Pro, iMac, Mac mini"
   },
   {
     "slug": "ipad",
     "name": "iPad",
-    "subtitle": "iPad A16, mini, Air, Pro",
-    "emoji": "📲"
+    "subtitle": "iPad A16, mini, Air, Pro"
   },
   {
     "slug": "airpods",
     "name": "AirPods",
-    "subtitle": "AirPods 4, Pro 2, Max 2",
-    "emoji": "🎧"
+    "subtitle": "AirPods 4, Pro 2, Max 2"
   },
   {
     "slug": "watch",
     "name": "Apple Watch",
-    "subtitle": "Series 11, Ultra 3, SE",
-    "emoji": "⌚"
+    "subtitle": "Series 11, Ultra 3, SE"
   },
   {
     "slug": "rayban",
     "name": "Ray-Ban Meta",
-    "subtitle": "Wayfarer, Headliner, Skyler",
-    "emoji": "🕶️"
+    "subtitle": "Wayfarer, Headliner, Skyler"
   },
   {
     "slug": "accessories",
     "name": "Аксессуары",
-    "subtitle": "MagSafe, чехлы, зарядки",
-    "emoji": "🔌"
+    "subtitle": "MagSafe, чехлы, зарядки, кабели"
   },
   {
     "slug": "home",
     "name": "Vision / Home",
-    "subtitle": "Vision Pro, Apple TV, HomePod",
-    "emoji": "🥽"
+    "subtitle": "Vision Pro, Apple TV, HomePod"
   }
 ]

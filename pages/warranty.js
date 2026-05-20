@@ -1,3 +1,2 @@
 import Layout from '../components/Layout'
-import Seo from '../components/Seo'
-export default function Page(){return <Layout><Seo title="Гарантия | iDanny" description="Гарантийное сопровождение действует при подтверждённом заводском дефекте." canonical="https://idanny.ru/warranty"/><section className="pageHero"><span className="eyebrow">Гарантия</span><h1>Гарантия</h1><p>Гарантийное сопровождение действует при подтверждённом заводском дефекте.</p></section><section className="infoRow"><article><b>Оригинальная техника</b><span>Актуальные устройства Apple и Ray‑Ban Meta.</span></article><article><b>Проверка</b><span>При доступном формате передачи можно проверить товар.</span></article><article><b>Подбор</b><span>Помогаем выбрать устройство под реальные задачи.</span></article></section></Layout>}
+export default function Page(){return <Layout><section className='pageHead'><h1>Гарантия</h1><p>Страница подготовлена для iDanny.</p></section></Layout>}
